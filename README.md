@@ -1,4 +1,4 @@
-# Amazon-Sales-AnalysisAmazon Sales Data Analysis Dashboard
+# Amazon Sales Data Analysis Dashboard
 This project showcases the development of an interactive dashboard using Tableau to analyze and visualize Amazon sales data. The primary objective of the dashboard is to provide a comprehensive overview of sales performance, helping stakeholders make data-driven decisions.
 
 Project Overview:
